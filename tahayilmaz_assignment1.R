@@ -1,4 +1,4 @@
-#Muhammed Taha Yýlmaz - 2017556069
+#Muhammed Taha Yï¿½lmaz - 2017556069
 
 
 install.packages("tidyverse")
