@@ -1,5 +1,9 @@
 #Muhammed Taha Y�lmaz - 2017556069
+<<<<<<< .merge_file_a00772
 #222
+=======
+
+>>>>>>> .merge_file_a10480
 
 install.packages("tidyverse")
 
