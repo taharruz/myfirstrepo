@@ -7,7 +7,7 @@ my_data<-mydata[sample(nrow(mydata), 1000),]
 my_data
 
 
-#Deneme 1
+#Deneme 2
 
 
 #Answer 1
