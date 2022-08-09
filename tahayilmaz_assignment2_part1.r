@@ -7,7 +7,11 @@ my_data<-mydata[sample(nrow(mydata), 1000),]
 my_data
 
 
+<<<<<<< HEAD
 #Deneme 3
+=======
+#Deneme 2
+>>>>>>> 72d1153a19723c1a45f6c0abdf26378ebcb08a1a
 
 
 #Answer 1
