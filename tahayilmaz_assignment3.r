@@ -3,7 +3,7 @@ library(tidyverse)
 set.seed(2017556069)
 
 #Section 1
-ty_func1<-function() {
+ty_func10<-function() {
   nums<-c(89,107,597,931,1083)
   i<-2
   prime<-c()
