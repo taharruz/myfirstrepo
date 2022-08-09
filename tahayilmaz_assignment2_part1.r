@@ -6,7 +6,11 @@ mydata <- read_csv2("C:/Users/mtaha/desktop/covid-data-20200.csv")
 my_data<-mydata[sample(nrow(mydata), 1000),]
 my_data
 
+<<<<<<< HEAD
 #Deneme 1
+=======
+#Deneme 2
+>>>>>>> 21edbef98449765dc17f6cc4cff169b8f7e49e71
 
 #Answer 1
 answer1 <- my_data %>% group_by(location, month) %>% 
